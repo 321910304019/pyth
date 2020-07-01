@@ -1,2 +1,0 @@
-# pyth
-Assignment 1
